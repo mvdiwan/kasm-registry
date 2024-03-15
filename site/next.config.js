@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Diwan Enterprise Consulting Custom KASM Registry',
+    description: 'Customized DECLLC Kasm workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://mvdiwan.github.io/kasm-registry/',
+    contactUrl: 'https://www.decllc.biz/support',
   },
   reactStrictMode: true,
   swcMinify: true,
