@@ -1,13 +1,13 @@
 {
   "friendly_name": "Term-with-utils",
   "image_src": "Term-with-utils.png",
-  "description": "shell terminal with network utiliies included",
-  "name": "https://tnas-omv.decllc.biz:5000/v2/decllc/term-with-utils:1.0.0",
+  "description": "shell terminal with network utilities included",
+  "name": "https://docker-registry.decllc.biz/decllc/term-with-utils:1.0.0",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
   "cpu_allocation_method": "Inherit",
-  "docker_registry": "https://tnas-omv.decllc.biz:5000/v2/",
+  "docker_registry": "https://docker-registry.decllc.biz/",
   "categories": [
     "Remote Access",
     "Communication"
