@@ -2,7 +2,7 @@
   "friendly_name": "Term-with-utils",
   "image_src": "Term-with-utils.png",
   "description": "shell terminal with network utiliies included",
-  "name": "decllc/term-with-utils:1.0.0",
+  "name": "https://tnas-omv.decllc.biz:5000/v2/decllc/term-with-utils:1.0.0",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
