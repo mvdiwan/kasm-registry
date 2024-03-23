@@ -1,0 +1,25 @@
+{
+  "friendly_name": "DECLLC Darkmode Firefox",
+  "image_src": "custom-darkmade-firefox.png",
+  "description": "darkmode firefox with darkreader and some local LAN bokmarks",
+  "name": "tnas-omv.decllc.biz:5000/decllc/firefox:1.0.0",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://tnas-omv.decllc.biz:5000/",
+  "categories": [
+    "Remote Access",
+    "Communication"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.14.x",
+    "1.15.x"
+  ]
+}
